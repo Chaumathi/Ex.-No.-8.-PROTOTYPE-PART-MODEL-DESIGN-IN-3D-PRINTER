@@ -46,7 +46,8 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![Screenshot 2024-12-05 103759](https://github.com/user-attachments/assets/03a46176-f8dc-450f-b19c-9830a6e41625)
+![Screenshot 2024-12-05 204915](https://github.com/user-attachments/assets/7ad9df98-c01f-4f73-82dd-76d026a8a7ba)
+
 
 ### Name: Charumathi A
 ### Register Number:24004958
